@@ -2,7 +2,7 @@
 """
 flask model for route
 """
-from email.policy import strict
+
 from flask import Flask
 app = Flask(__name__)
 
